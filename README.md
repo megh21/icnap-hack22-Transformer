@@ -17,4 +17,4 @@ hackathon
 
 - LSTM Benchmark classification
 ![image](https://user-images.githubusercontent.com/73994639/175145123-7adc8646-8152-4340-a824-3a8220202ead.png)
-![image](https://user-images.githubusercontent.com/73994639/175145123-7adc8646-8152-4340-a824-3a8220202ead.png)
+![image](https://user-images.githubusercontent.com/73994639/175160635-b4d835b1-26be-4de1-ab3f-aabbed7fe2ba.png)
