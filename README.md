@@ -31,11 +31,6 @@ The codes are based on implementation of transformers for time series Classifica
 
 
 
-## LSTM Benchmark classification
-![image](https://user-images.githubusercontent.com/73994639/175145123-7adc8646-8152-4340-a824-3a8220202ead.png)
-![image](https://user-images.githubusercontent.com/73994639/175160635-b4d835b1-26be-4de1-ab3f-aabbed7fe2ba.png)
-
-
 ## Installation
  1. Clone the repo `git clone (https://github.com/megh21/icnap-hack22-Transformer) `
  2. install dependencies
@@ -58,3 +53,9 @@ Instead of training a model from python script, we use the google Colab or uploa
 ## Inspecting the Model 
 ![image](https://user-images.githubusercontent.com/73994639/175145072-164d0114-5a89-4829-90dd-500320121d8b.png)
 ![image](https://user-images.githubusercontent.com/73994639/175160898-e80e5330-2671-41d7-be35-adf2fd34758b.png)
+
+
+## LSTM Benchmark classification
+![image](https://user-images.githubusercontent.com/73994639/175145123-7adc8646-8152-4340-a824-3a8220202ead.png)
+![image](https://user-images.githubusercontent.com/73994639/175160635-b4d835b1-26be-4de1-ab3f-aabbed7fe2ba.png)
+
