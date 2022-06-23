@@ -11,7 +11,7 @@
 ## Introduction
 The codes are based on implementation of transformers for time series Classification with Rocket transform ([https://arxiv.org/abs/2012.08791]) on Python 3, Keras, and TensorFlow to CLassify machine Data in Time series into categories such as in this case helmet, noise cancelling headphones, vest, eye safety goggles etc.
 
-- It runs in Google colab [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges) (GPU enabled environment) using Matterport's Mask_RCNN framework.
+- It runs in Google colab [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/megh21/icnap-hack-22-Transformer) (GPU enabled environment) 
 
 - This repo contains code for Time Series Classification and Regression using Transformers
 - Time series classification - Task 1 - aux-code.ipynb
