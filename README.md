@@ -2,8 +2,8 @@
 ##  Time Series Classification and Regression using Transformers
 ## Contents
 1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Making Dataset](#making-dataset)
+2. [Rocket transform](#Rocket transform)
+3. [Dataset](#making-dataset)
 4. [Train the model](#train-the-model)
 5. [Inspecting the model](#inspecting-the-model)
 
@@ -35,18 +35,6 @@ The codes are based on implementation of transformers for time series Classifica
 ![image](https://user-images.githubusercontent.com/73994639/175145123-7adc8646-8152-4340-a824-3a8220202ead.png)
 ![image](https://user-images.githubusercontent.com/73994639/175160635-b4d835b1-26be-4de1-ab3f-aabbed7fe2ba.png)
 
-
-# Personal Protective Equipment (PPE) detection using Mask R-CNN
-
-
-![prediction_2](https://user-images.githubusercontent.com/29149625/111077421-f9a09400-84f0-11eb-999d-73f792496f31.png "ppe-prediction")
-
-## Table of Contents 
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Making Dataset](#making-dataset)
-4. [Train the model](#train-the-model)
-5. [Inspecting the model](#inspecting-the-model)
 
 ## Installation
  1. Clone the repo `git clone (https://github.com/megh21/icnap-hack22-Transformer) `
