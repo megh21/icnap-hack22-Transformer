@@ -1,5 +1,13 @@
+
+
+<p>
+<img alt="PyPI" src="https://img.shields.io/badge/21-success-brightgreen">  
+</p>
+
 # icnap hackathon
 ##  Time Series Classification and Regression using Transformers
+
+
 ## Contents
 1. [Introduction](#introduction)
 2. [Rocket transform](#Rocket-transform)
