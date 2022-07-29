@@ -33,7 +33,7 @@ The codes are based on implementation of transformers for time series Classifica
 - Input Modelling architecture 
 
 ## Rocket transform
-- RandOM Convolutional KErnal Transform) [Rocket could be implemented from](https://www.sktime.org/en/stable/api_reference/auto_generated/sktime.transformations.panel.rocket.MiniRocket.html)
+- RandOM Convolutional KErnal Transform) [Rocket could be implemented from here](https://www.sktime.org/en/stable/api_reference/auto_generated/sktime.transformations.panel.rocket.MiniRocket.html)
 
 
 ## Architecture:
